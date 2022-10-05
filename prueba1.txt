@@ -3,3 +3,5 @@ Esta es una nota que se creó para
 hacer una prueba con el curso de 
 
 Platzi, sobre git y github
+
+Ya este archivo ha sido mdificado
